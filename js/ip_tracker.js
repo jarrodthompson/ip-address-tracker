@@ -1,5 +1,5 @@
 // pull from different file
-const secret_api = "at_y1XEyvU3Ohb17dP1MoAQkjZgduemQ";
+const secret_api = "";
 //const bypass_cors_url = "https://cors-anywhere.herokuapp.com/";
 const api_uri = "https://geo.ipify.org/api/";
 let current_version = "v1";
